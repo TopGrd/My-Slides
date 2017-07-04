@@ -5,7 +5,7 @@
  * Author: topgrd
  * Email: topgrd@outlook.com
  * -----
- * Last Modified: Sun Jul 02 2017
+ * Last Modified: Mon Jul 03 2017
  * Modified By: topgrd
  * -----
  * Copyright (c) 2017
@@ -14,7 +14,7 @@
 
 const App = {
   slides: document.querySelector('.slides'),
-  total: 20,
+  total: 40,
   baseUrl: 'content/'
 }
 
